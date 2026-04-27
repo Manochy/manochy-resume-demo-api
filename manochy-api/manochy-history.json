@@ -1,0 +1,367 @@
+[
+  {
+    "company_en": "Bank of Ayutthaya PCL. (Head Office) - Outsource APNS",
+    "company_detail_en": "Bank operated in Thailand.",
+    "job_type_en": "OS (Outsource)",
+    "start_date_en": "2022-06-01",
+    "end_date_en": "2023-11-31",
+    "company_th": "ธนาคารหรุงศรีอยุธยา (สำนักงานใหญ่) - Outsource APNS",
+    "company_detail_th": "ธนาคารดำเนินกิจการในประเทศไทย",
+    "job_type_th": "พนักงานเอ้าซอส",
+    "start_date_th": "2565-06-01",
+    "end_date_th": "2566-11-31",
+    "position": "Prod Support",
+    "projects": [
+      {
+        "project": "IFRS9 - Prod Support",
+        "duty": "Prod Support",
+        "detail_en": "Monitoring Batch Operations and Running Microsoft SQL Server's Stored Jobs, includes other batch monitoring such as GMM and Non-GMM operations, IFRS9 operations, HA operations, Investigate any incidents and problems and report back to senior or leader for finding solutions.",
+        "detail_th": "สังเหตุและเฝ้าดูแลการรันชุดคำสั่งหรืองาานต่างๆบนเซิฟเวอร์ของธนาคาร รวมไปถึงการรันชุดคำสั่งสำหรับ GMM และ Non-GMM, HA รวมไปถึงการสืบค้นหาต้นตอของปัญหาที่เกิดขึ้น รายงานกลับหาหัวหน้าและร่วมกันหาวิธีการแก้ปัญหา"
+      },
+      {
+        "project": "One Sum X Upgrade",
+        "duty": "SQL Developer",
+        "detail_en": "PL/SQL development on SIT environment, evaluate and change behavior of stored procedures to support combination of data and relations of them on Microsoft SQL Server. Using SSIS to implement and upgrade. Initiated SQL Script and Procedures to support sanity test on upgrade. Repair and Restore Database as assigned.",
+        "detail_th": "พัฒนาและปรับปรุงระบบด้วย PL/SQL บน SIT environment, ตรวจสอบและปรับเปลี่ยนการทำงานของ stored procedures บนเซิฟเวอร์ให้ตรงตามความต้องการในการอัพเกรดระบบ ใช้ SSIS สำหรับสร้าง package เพื่อใช้เป็ฯคำสั่งในการทำงาน สร้างสคริปต์หรือ procedure สำหรับทดสอบการทำงานเบื้องต้นของส่วนที่อัพเกรดไป ซ่อมแซมและกู้คืนฐานข้อมูลตามที่ได้รับมอบหมาย"
+      },
+      {
+        "project": "PDPA Data Retention for One Sum X",
+        "duty": "SQL Developer",
+        "detail_en": "Design and initiate SELECT SQL scripts for DELETE data in every table on OSX environments.",
+        "detail_th": "ออกแบบการทำงานของสคริป SQL สำหรับลบข้อมูลที่ต้องการลบจากนโยบาย PDPA ในระบบ OSX"
+      },
+      {
+        "project": "ECAP",
+        "duty": "Prod Support/SQL Develoepr",
+        "detail_en": "Monitoring On developed ECAP project's running Microsoft SQL Server jobs. Investigating problems while error occurred and if able to fix, fix it. Doing Procedures and Logical Function SQL programming with main SQL Develoeper.",
+        "detail_th": "การตรวจสอบงาน Microsoft SQL Server ที่กำลังรันอยู่ของโครงการ ECAP ที่พัฒนาแล้ว การตรวจสอบปัญหาขณะเกิดข้อผิดพลาด และหากแก้ไขได้ก็แก้ไขได้ การทำขั้นตอนและการเขียนโปรแกรมฟังก์ชันลอจิคัล SQL ด้วยกันกับ SQL Developer หลักของโครงการ"
+      }
+    ]
+  },
+  {
+    "company_en": "Freelance Developer",
+    "company_detail_en": "Freelance Jobs",
+    "job_type_en": "Freelance",
+    "end_date_en": "2022-05-31",
+    "start_date_en": "2020-05-01",
+    "company_th": "นักพัฒนาอิสระ",
+    "company_detail_th": "งานอิสระ",
+    "job_type_th": "งานอิสระ",
+    "end_date_th": "2565-05-31",
+    "start_date_th": "2563-05-01",
+    "position": "Co-Founder, CIO, CTO",
+    "projects": [
+      {
+        "project": "Custom Desktop Application",
+        "duty": "Java Developer",
+        "detail_en": "NDA restriction Projects : Using LineOA, Google Application Scripts, Custom Api with GOlang and Java, Java desktop application coding.",
+        "detail_th": "ข้อจำกัด NDA : ใช้เทคโนดลยี LineOA, Google Application Scripts, สร้าง Custom Api ด้วย Golang และ Java, พัฒนา Desktop Application ด้วย Java"
+      },
+      {
+        "project": "Wireless Network Intallation",
+        "duty": "System Engineer",
+        "detail_en": "Wireless network infrastructure installation and deployment in hotels and offices. Using Unifi AP and system communication, google workspace/google domain for customer requirements on mailing system. Design network vlan for department separation and organized them.",
+        "detail_th": "การติดตั้งและใช้งานโครงสร้างพื้นฐานเครือข่ายไร้สายในโรงแรมและสำนักงาน การใช้ Unifi AP และการสื่อสารของระบบ, google workspace/โดเมน google สำหรับความต้องการของลูกค้าในระบบการส่งจดหมาย ออกแบบ vlan เครือข่ายสำหรับการแยกแผนกและจัดระเบียบ"
+      },
+      {
+        "project": "Live Stream Production",
+        "duty": "Producer",
+        "detail_en": "NDA and Non-NDA restriction : Planning and Design story board for live streaming as customer required. Operate the live show on site. Jobs are usually between covid outbreak. Since face-to-face meeting is impossible at the time. Many conference meetings such as one of my customer the Ministry of Financial's Annual Meeting change to hold as online live stream meeting twice (2020 and 2021) instead. Evaluate and design according to customer environment and infrastructure. Contact prepared and signed. Operate Live Stream on designated time. Design and installation of any properties for the conferences such as standee design, vdo presentation and camera control.",
+        "detail_th": "ข้อจำกัด NDA และ Non-NDA : การวางแผนและออกแบบสตอรี่บอร์ดสำหรับการสตรีมสดตามที่ลูกค้าต้องการ ดำเนินการแสดงสดในสถานที่ งานมักจะอยู่ระหว่างการระบาดของโควิด เนื่องจากการพบปะแบบเห็นหน้ากันนั้นเป็นไปไม่ได้ในขณะนั้น การประชุมสัมมนาหลายรายการ เช่น หนึ่งในลูกค้าของฉัน การประชุมประจำปีของกระทรวงการคลัง เปลี่ยนเป็นการประชุมสตรีมสดออนไลน์สองครั้ง (ปี 2020 และ 2021) แทน ประเมินและออกแบบตามสภาพแวดล้อมและโครงสร้างพื้นฐานของลูกค้า เตรียมการติดต่อและลงนามแล้ว ดำเนินการถ่ายทอดสดตามเวลาที่กำหนด ออกแบบและติดตั้งคุณสมบัติต่างๆ สำหรับการประชุม เช่น การออกแบบสแตนดี้ การนำเสนอ vdo และการควบคุมกล้อง"
+      }
+    ]
+  },
+  {
+    "company_en": "Art of Golf International Co., Ltd.",
+    "company_detail_en": "Here I look over 3 companies inside which are Art of GOlf International CO., Ltd. (A High quality Golf Wears and Eqipments merchandise and services. ), Art Distribution Co., Ltd. (A distribution company import goods and products to Thailand) and Anakyn Production CO., Ltd. (A media production company)",
+    "job_type_en": "FTE (Full-Time Employee)",
+    "end_date_en": "2020-04-30",
+    "start_date_en": "2015-06-01",
+    "company_th": "บริษัท อาร์ท ออฟ กอล์ฟ อินเตอร์เนชั่นแนล จำกัด",
+    "company_detail_th": "ดูบริษัทภายใน 3 บริษัท ได้แก่ Art of GOlf International CO., Ltd. (สินค้าและบริการชุดกอล์ฟและอุปกรณ์กอล์ฟคุณภาพสูง), Art Distribution Co., Ltd. (บริษัทจัดจำหน่ายนำเข้าสินค้าและผลิตภัณฑ์มายังประเทศไทย) และบริษัท อนาคินโปรดักชั่น จำกัด (บริษัทผลิตสื่อ)",
+    "job_type_th": "พนักงานประจำ",
+    "end_date_th": "2563-04-30",
+    "start_date_th": "2558-06-01",
+    "position": "President Assistant",
+    "projects": [
+      {
+        "project": "Digital Transformation - Art of GOlf",
+        "duty": "IT Dept. Manager / Shop Manager",
+        "detail_en": "Design and develope any neccessary software or business software for company, focussing on digital transformation. Development of first POS and ERP software for company and also IT infrastructure design and development of the shop. Provide any resolve for digitizing problems and make the system simpler.",
+        "detail_th": "ออกแบบและพัฒนาซอฟต์แวร์หรือซอฟต์แวร์ทางธุรกิจที่จำเป็นสำหรับบริษัท โดยมุ่งเน้นที่การเปลี่ยนแปลงทางดิจิทัล การพัฒนาซอฟต์แวร์ POS และ ERP ตัวแรกสำหรับบริษัท รวมถึงการออกแบบและพัฒนาโครงสร้างพื้นฐานด้านไอทีของร้านค้า ให้การแก้ไขปัญหาสำหรับการแปลงเป็นดิจิทัลและทำให้ระบบง่ายขึ้น"
+      },
+      {
+        "project": "Account Software Implementation - Art of GOlf",
+        "duty": "IT Dept. Manager, Accounting Dept. Manager Assistant",
+        "detail_en": "The company change to use new account software which includes tax operations and also business operations support. Planning budget management for any IT development usage. Collaborate with vendor to satisfy goals for using new accounting software.",
+        "detail_th": "บริษัทเปลี่ยนมาใช้ซอฟต์แวร์บัญชีใหม่ซึ่งรวมถึงการดำเนินการด้านภาษีและการสนับสนุนการดำเนินธุรกิจ การวางแผนการจัดการงบประมาณสำหรับการใช้งานด้านการพัฒนาไอที ทำงานร่วมกับผู้จำหน่ายเพื่อให้บรรลุเป้าหมายในการใช้ซอฟต์แวร์บัญชีใหม่"
+      },
+      {
+        "project": "New POS - Art of Golf / Art Distribution",
+        "duty": "IT Dept. Manager, Accountant Supervisor",
+        "detail_en": "With Growth of company group, new policy came out with usage of new POS from vendor. Collaboration Training course design and acceptant testing to software. Renovate business process and sales operations to match new requirements.",
+        "detail_th": "ด้วยการเติบโตของกลุ่มบริษัท นโยบายใหม่จึงออกมาพร้อมกับการใช้ POS ใหม่จากผู้ขาย การออกแบบหลักสูตรการฝึกอบรมการทำงานร่วมกันและการทดสอบซอฟต์แวร์ที่ได้รับการยอมรับ ปรับปรุงกระบวนการทางธุรกิจและการดำเนินการขายเพื่อให้ตรงกับข้อกำหนดใหม่"
+      },
+      {
+        "project": "Tax payment - Art of GOlf, Art Distribution, Anakyn Production",
+        "duty": "IT Dept. Manager, Accountant Supervisor, General Manager",
+        "detail_en": "Tax and payroll payment operation for employees of 3 companies. Design budget and project budget for every production and advertisement projects. Coordinate and cooperate with outsiders including VIP customers.",
+        "detail_th": "การดำเนินการชำระภาษีและเงินเดือนสำหรับพนักงาน 3 บริษัท ออกแบบงบประมาณและงบประมาณโครงการสำหรับโครงการผลิตและโฆษณาทุกโครงการ ประสานงานและร่วมมือกับบุคคลภายนอกรวมถึงลูกค้าวีไอพี"
+      }
+    ]
+  },
+  {
+    "company_en": "Freelance Developer Group",
+    "company_detail_en": "Just a freelance developer group of programmers, selling custom application as customer required.",
+    "job_type_en": "Freelance",
+    "start_date_en": "2014-06-01",
+    "end_date_en": "2015-05-31",
+    "company_th": "กลุ่มนักพัฒนาอิสระ",
+    "company_detail_th": "กลุ่มนักพัฒนาโปรแกรมและระบบอิสระ รับงานตามความต้องการของลูกค้า",
+    "job_type_th": "งานอิสระ",
+    "start_date_th": "2557-06-01",
+    "end_date_th": "2558-05-31",
+    "position": "System Analyst, Business Analyst, System Engineer, Software Engineer (Java)",
+    "projects": [
+      {
+        "project": "POS System - Dssktop/Web Application",
+        "duty": "System Analyst, Business Analyst",
+        "detail_en": "Requirement Collection from customer, evaluate and design according to requirements. Contact prepared and other document prepared as customer needs. Testing both SIT and UAT. Some of Web Application are re-implement and use in this web resume.",
+        "detail_th": "รับข้อต้องการจากลูกค้า ประเมินและออกแบบตามความต้องการ ติดต่อจัดทำและเอกสารอื่นๆจัดทำตามความต้องการของลูกค้า ทดสอบทั้ง SIT และ UAT และ Web Application บางส่วนได้รับการปรับใช้ใหม่และใช้ในประวัติย่อบนเว็บนี้"
+      },
+      {
+        "project": "ERP System - Desktop Application",
+        "duty": "System Analyst, Business Analyst, Software Engineer (Java)",
+        "detail_en": "Do SA/BA jobs and also coding as software engineer. No sample since NDA contact was signed.",
+        "detail_th": "ทำงาน SA/BA และเขียนโค้ดในฐานะวิศวกรซอฟต์แวร์ ไม่มีตัวอย่างตั้งแต่มีการลงนามสัญญา NDA"
+      },
+      {
+        "project": "Digital Transformation",
+        "duty": "System Analyst, Business Analyst, System Engineer, Software Engineer (Java)",
+        "detail_en": "Customers are organization which required to change from using paper to digital records and process. Evaluate and Design infrastructure and offer them to customers. All required document prepared and presentation.",
+        "detail_th": "ลูกค้าคือองค์กรที่ต้องเปลี่ยนจากการใช้กระดาษมาเป็นบันทึกและกระบวนการดิจิทัล ประเมินและออกแบบโครงสร้างพื้นฐานและเสนอให้กับลูกค้า เตรียมเอกสารที่จำเป็นทั้งหมดและนำเสนอ"
+      },
+      {
+        "project": "Custom Desktop Application",
+        "duty": "System Analyst, Business Analyst, System Engineer, Software Engineer (Java)",
+        "detail_en": "Rotate duty according to free time of each member in group. while being SA/BA, do customer requirement and application/database desgin according to customer's business process. Document prepared and presentation. while being system engineer, do infrastructure design according to customer budget. whie being software engineer is easier since coding according to what other member design, if evaluate and understand then suggest better way to organize project to finish in time and meet customer requirements.",
+        "detail_th": "หมุนเวียนหน้าที่ตามเวลาว่างของสมาชิกแต่ละคนในกลุ่ม ในขณะที่เป็น SA/BA จะทำความต้องการของลูกค้าและออกแบบแอพพลิเคชั่น/ฐานข้อมูลตามกระบวนการทางธุรกิจของลูกค้า จัดเตรียมเอกสารและนำเสนอ ในขณะที่เป็นวิศวกรระบบ ออกแบบโครงสร้างพื้นฐานตามงบประมาณของลูกค้า การเป็นวิศวกรซอฟต์แวร์นั้นง่ายกว่าเพราะเขียนโค้ดตามการออกแบบของสมาชิกคนอื่นๆ หากประเมินและเข้าใจก็แนะนำวิธีที่ดีกว่าในการจัดการโครงการให้เสร็จทันเวลาและตรงตามความต้องการของลูกค้า"
+      }
+    ]
+  },
+  {
+    "company_en": "Royal Engineering Ltd. Part.",
+    "company_detail_en": "A diesel engine garage service company, serve on repairing any diesel engines.",
+    "job_type_en": "FTE (Full-Time Employee)",
+    "start_date_en": "2012-10-01",
+    "end_date_en": "2014-05-31",
+    "company_th": "ห้างหุ้นส่วน รอยัล เอ็นจิเนียริ่ง จำกัด",
+    "company_detail_th": "เป็นห้างหุ้นส่วนเกี่ยวการซ่อมแซมเครื่องยนต์ดีเซลทุกรูปแบบ",
+    "job_type_th": "พนักงานประจำ",
+    "start_date_th": "2555-05-31",
+    "end_date_th": "2557-05-31",
+    "position": "IT Technical Support",
+    "projects": [
+      {
+        "project": "Digital Transformation",
+        "duty": "IT Technical Support",
+        "detail_en": "The workshop and office of the company want to change into digital usage to decrease usage of paper. So the first mission for me in this company is to transform to digital.",
+        "detail_th": "โรงงานและสำนักงานของบริษัทต้องการเปลี่ยนมาใช้ดิจิทัลเพื่อลดการใช้กระดาษ ภารกิจแรกสำหรับฉันในบริษัทนี้คือการเปลี่ยนแปลงสู่ดิจิทัล"
+      },
+      {
+        "project": "Network Design and Installation",
+        "duty": "IT Technical Support",
+        "detail_en": "According to the grwth of company, the new highend diesel garage was built and need to connect to each other with the head office in Bangkok, so the solution of VPN between campus was created and seting by IT team.",
+        "detail_th": "จากการเติบโตของบริษัท อู่ซ่อมเครื่องดีเซลที่ทันสมัยแห่งที่สองได้ถูกสร้างขึ้น และจำเป็นต้องเชื่อมต่อระหว่างกันกับสำนักงานใหญ่ในกรุงเทพฯ ดังนั้นโซลูชัน VPN ระหว่างสาขาจึงถูกสร้าง, ติดตั้ง และตั้งค่าโดยทีมไอที"
+      },
+      {
+        "project": "General IT Support and Design Training Course For Employees",
+        "duty": "System Analyst, Business Analyst, System Engineer, Software Engineer (Java)",
+        "detail_en": "After Digital transformation was completed, there was a training to train system usage of emplyees. My duty is to support and desigh training course to make every employees familiar and use the new ERP system effectively.",
+        "detail_th": "หลังจาก Digital Transformation เสร็จสิ้น ก็มีการจัดอบรมการใช้งานระบบให้กับพนักงาน หน้าที่หลักคือการสนับสนุนและออกแบบหลักสูตรการฝึกอบรมเพื่อให้พนักงานทุกคนคุ้นเคยและใช้ระบบ ERP ใหม่อย่างมีประสิทธิภาพ"
+      }
+    ]
+  },
+  {
+    "company_en": "Morfaz Group Co., Ltd.",
+    "company_detail_en": "Korean offshore business on clean energy and selling any required products from South Korea.",
+    "job_type_en": "PTE (Part-Time Employee)",
+    "start_date_en": "2012-07-01",
+    "end_date_en": "2012-10-31",
+    "company_th": "กลุ่มบริษัท MOrfaz ประเทศไทย",
+    "company_detail_th": "บริษัทลงทุนด้านพลังงานสะอาดและขายสิ่งของจากประเทศเกาหลีใต้",
+    "job_type_th": "พนักงานชั่วคราว",
+    "start_date_th": "2555-07-01",
+    "end_date_th": "2555-10-31",
+    "position": "Business Consultant, IT Chief",
+    "projects": [
+      {
+        "project": "PPA Trading",
+        "duty": "Business Consultant",
+        "detail_en": "Finding and buying PPA from holders in the best price for selling electrcity from solar farm that company invest in Lopburi. Project management for other related business with government and military. Some sellers need an investment in project instead of selling PPA directly to company such as doing a charity project for publics.",
+        "detail_th": "การค้นหาและซื้อ PPA จากผู้ถือครองในราคาที่ดีที่สุดสำหรับการขายไฟฟ้าจากโซลาร์ฟาร์มที่บริษัทลงทุนในลพบุรี การบริหารโครงการเพื่อธุรกิจอื่นที่เกี่ยวข้องกับภาครัฐและทหาร ผู้ขายบางรายจำเป็นต้องลงทุนในโครงการแทนการขาย PPA ให้กับบริษัทโดยตรง เช่น การทำโครงการการกุศลเพื่อสาธารณะ"
+      },
+      {
+        "project": "IT Security Management",
+        "duty": "IT Chief",
+        "detail_en": "Evaluate and design collaboarated environment including network security for office in Bangkok to connect and monitor the solar farm activities as requirements from HQ in South Korea.",
+        "detail_th": "ประเมินและออกแบบสภาพแวดล้อมการทำงานร่วมกัน รวมถึงความปลอดภัยของเครือข่ายสำหรับสำนักงานในกรุงเทพฯ เพื่อเชื่อมต่อและติดตามกิจกรรมโซลาร์ฟาร์มตามข้อกำหนดจากสำนักงานใหญ่ในเกาหลีใต้"
+      }
+    ]
+  },
+  {
+    "company_en": "Western Integration Co., Ltd.",
+    "company_detail_en": "A Software House company that had got a project to implement all system of port authority of Thailand with Kasetsart University.",
+    "job_type_en": "FTE (Full-Time Employee)",
+    "start_date_en": "2010-12-01",
+    "end_date_en": "2012-06-30",
+    "company_th": "บริษัท เวสเทิร์น อินทิเกรชั่น จำกัด",
+    "company_detail_th": "บริษัทพัฒนาโปรแกรมและวางระบบ ซึ่งได้โครงการ AGS ของการท่าเรือแห่งประเทศไทยร่วมกับมหาวิทยาลัยเกษตรศาสตร์",
+    "job_type_th": "พนักงานประจำ",
+    "start_date_th": "2553-12-01",
+    "end_date_th": "2555-06-30",
+    "position": "Senior Java Programmer",
+    "projects": [
+      {
+        "project": "Register Module - Auto-Gate System (AGS)",
+        "duty": "Senior Java Programmer, Junior Java Programmer",
+        "detail_en": "Design and Coding desktop application according to business process of project. Design and Training Port Authority of Thailand's Employee for the system usage.",
+        "detail_th": "ออกแบบและเขียนโค้ดแอปพลิเคชันเดสก์ท็อปตามกระบวนการทางธุรกิจของโครงการ การออกแบบและฝึกอบรมพนักงานการท่าเรือแห่งประเทศไทยในการใช้งานระบบ"
+      },
+      {
+        "project": "Equipment Control Module - Auto-Gate System (AGS)",
+        "duty": "Senior Java Programmer, Junior Java Programmer",
+        "detail_en": "Coding controller of all realated equipments of AGS such as barrier gate, RFID sensor control, electronics sign display, OCR camera control and etc.",
+        "detail_th": "เขียนซอฟท์แวร์ควบคุมของอุปกรณ์ที่ใช้งานจริงทั้งหมดของ AGS เช่น ประตูกั้น การควบคุมเซ็นเซอร์ RFID จอแสดงผลป้ายอิเล็กทรอนิกส์ การควบคุมกล้อง OCR และอื่น ๆ"
+      },
+      {
+        "project": "Database Revised - Auto-Gate System (AGS)",
+        "duty": "System Analyst, Business Analyst",
+        "detail_en": "According to problems from the retired system analysts and business analysts on project, database revisions and requirement collection are duty for developers company that I was in, and according to low man power of the company, all developers are required to act as SA an BA at the same time.",
+        "detail_th": "จากปัญหาของนักวิเคราะห์ระบบและนักวิเคราะห์ธุรกิจในโครงการที่เกษียณออกไปของโครงการ การวิเคราะห์ฐานข้อมูลและการรวบรวมความต้องการของลูกค้าจึงตกเป็นหน้าที่ของบริษัทนักพัฒนาที่อยู่ และด้วยกำลังคนของบริษัทที่น้อย นักพัฒนาทุกคนจำเป็นต้องทำหน้าที่เป็น SA และ BA ที่ ในเวลาเดียวกัน"
+      },
+      {
+        "project": "Gate Operation Module - Auto-Gate System (AGS)",
+        "duty": "Senior Java Programmer, Junior Java Programmer",
+        "detail_en": "Design and Coding to meet the incresed requirements to the old Gate Operation Module that already developed before.",
+        "detail_th": "การออกแบบและการเขียนโค้ดเพื่อให้ตรงตามข้อกำหนดที่เพิ่มขึ้นสำหรับ Gate Operation Module แบบเก่าที่พัฒนาไปแล้วก่อนหน้านี้"
+      },
+      {
+        "project": "Parking Module - Port Authority Of Thailand",
+        "duty": "Senior Java Programmer, Junior Java Programmer",
+        "detail_en": "Design and coding from scratch for parking module outside port area form visitors. This module is incresed one from the core project since the negtiate for late deployment of main module.",
+        "detail_th": "การออกแบบและการเขียนโค้ดตั้งแต่เริ่มต้นสำหรับโมดูลที่จอดรถด้านนอกบริเวณท่าเรือจากผู้มาเยือน โมดูลนี้เพิ่มขึ้นหนึ่งรายการจากโครงการหลักเนื่องจากมีการเจรจาเพื่อปรับใช้ระบบหลักล่าช้าเกินกำหนดสัญญา"
+      }
+    ]
+  },
+  {
+    "company_en": "Thai Dragon Corporation Co., Ltd. (Hong Kong)",
+    "company_detail_en": "Home organization created for financial business such as international loan and commercial, commercial trading and stock market services.",
+    "job_type_en": "Other Experiences - Business Management",
+    "start_date_en": "2014-04-01",
+    "end_date_en": "Present",
+    "company_th": "บริษัท ไทย ดราก้อน คอร์ปอเรชั่น จำกัด",
+    "company_detail_th": "บริษัทให้คำแนะนำและรับจัดการด้านการเงินของทางบ้าน",
+    "job_type_th": "ประสบการณ์อื่นๆที่ไม่ใช่ IT - เจ้าของกิจการ",
+    "start_date_th": "2557-04-01",
+    "end_date_th": "Present",
+    "position": "Co-founder, CIO, CTO",
+    "projects": [
+      {
+        "project": "International Financial Management (Dubai, UK, China)",
+        "duty": "CIO",
+        "detail_en": "Control Information Management and contact with business allies in other countries.",
+        "detail_th": "ควบคุมการจัดการข้อมูลและการติดต่อกับพันธมิตรทางธุรกิจในต่างประเทศ"
+      },
+      {
+        "project": "Domestic Financial Management (Thailand)",
+        "duty": "CIO",
+        "detail_en": "Control Information Management and contact with Bank of Thailand for business opportunities in investment and loan in countries.",
+        "detail_th": "ควบคุมการจัดการข้อมูลและการติดต่อกับพันธมิตรทางธุรกิจภายในประเทศ"
+      }
+    ]
+  },
+  {
+    "company_en": "Thai Dragon Innovation Ltd. Part.",
+    "company_detail_en": "Home organization created for buying and selling innovation prduct with government. Since at the time my brother had been one of covid19 commitee to find solution on preventing outbreak problems.",
+    "job_type_en": "Other Experiences - Business Management",
+    "start_date_en": "2022-05-31",
+    "end_date_en": "Present",
+    "company_th": "ห้างหุ้นส่วน ไทย ดราก้อน อินโนเชั่น จำกัด",
+    "company_detail_th": "กิจการของทางบ้านเปิดมาเพื่อติดต่อซื้อขายสินค้าและนวัตกรรมต่างๆกับภาครัฐฯ",
+    "job_type_th": "ประสบการณ์อื่นๆที่ไม่ใช่ IT - เจ้าของกิจการ",
+    "start_date_th": "2565-05-31",
+    "end_date_th": "Present",
+    "position": "Co-Founder, CIO, CTO",
+    "projects": [
+      {
+        "project": "Sanitizer Tunnel with Bangkok Committee",
+        "duty": "CIO/CTO/Project Manager",
+        "detail_en": "Project design and development for selling sanitizer tunnel in covid19 outbreak period. Contact with industry for development and crate tunnel prototypes. Project presentation to Bangkok Committee meeting. Document and Media prepared for every meeting and project presentation.",
+        "detail_th": "ออกแบบและพัฒนาโครงการจำหน่ายอุโมงค์ฉีดพ่นฆ่าเชื้อในช่วงการระบาดของไวรัส covid19 ติดต่อกับภาคอุตสาหกรรมเพื่อพัฒนาและสร้างต้นแบบอุโมงค์, นำเสนอโครงการต่อที่ประชุมคณะสภากรรมการกรุงเทพมหานคร จัดทำเอกสารและสื่อสำหรับการประชุมและการนำเสนอโครงการทุกครั้ง"
+      }
+    ]
+  },
+  {
+    "company_en": "Moriichi Ramen Shop",
+    "company_detail_en": "Ramen Shop openned in Siam Center",
+    "job_type_en": "Other Experiences - Shop Manager/Head Chef",
+    "start_date_en": "2012-07-01",
+    "end_date_en": "2012-10-31",
+    "company_th": "กลุ่มบริษัท MOrfaz ประเทศไทย",
+    "company_detail_th": "บริษัทลงทุนด้านพลังงานสะอาดและขายสิ่งของจากประเทศเกาหลีใต้",
+    "job_type_th": "ประสบการณ์อื่นๆที่ไม่ใช่ IT - เจ้าของกิจการ/พ่อครัว",
+    "start_date_th": "2555-07-01",
+    "end_date_th": "2555-10-31",
+    "position": "Shop Manager, Head Chef",
+    "projects": []
+  },
+  {
+    "company_en": "Lan Xang Tourist and Transportation Co., Ltd. (LAO PDR.)",
+    "company_detail_en": "My Family Tourist business in Lao PDR.",
+    "job_type_en": "Other Experiences - Business Management",
+    "start_date_en": "2022-01-01",
+    "end_date_en": "2022-05-31",
+    "company_th": "กลุ่มบริษัท MOrfaz ประเทศไทย",
+    "company_detail_th": "บริษัท ล้านช้าง ทัวร์ริสต์ แอนด์ ทรานสปอร์เตชั่น จำกัด]",
+    "job_type_th": "ประสบการณ์อื่นๆที่ไม่ใช่ IT - เจ้าของกิจการ",
+    "start_date_th": "2565-01-01",
+    "end_date_th": "2565-05-31",
+    "position": "Co-Founder, CIO, CTO",
+    "projects": [
+      {
+        "project": "Tour : Vientiene-Vang Vieng-Luang Phabang",
+        "duty": "Tour Leader",
+        "detail_en": "Leading Tour for tourist from Thailand in Lao. From capital of Lao to Blue Laggon in Vang Vieng province and took high-speed train to Luang Phabang then bus back to Vientiene.",
+        "detail_th": "ผู้นำทัวร์สำหรับนักท่องเที่ยวชาวไทยในประเทศลาว จากเมืองหลวงของลาวสู่เมืองบลูลากอนที่วังเวียง แล้วนั่งรถไฟความเร็วสูงไปหลวงพระบางแล้วต่อรถกลับเวียงจันทน์"
+      }
+    ]
+  },
+  {
+    "company_en": "Mahidol University Computer Center",
+    "company_detail_en": "Computer center of one of the most popular University in Thailand in the industry of Science and Medical",
+    "job_type_en": "Internship",
+    "start_date_en": "2005-04-01",
+    "end_date_en": "2008-10-31",
+    "company_th": "สำนักคอมพิวเตอร์ มหาวิทยาลัยมหิดล",
+    "company_detail_th": "สำนักคอมพิวเตอร์ของหนึ่งในมหาวิทยาลัยที่มีชื่อเสียงของประเทศไทยในสายด้านการแพทย์และวิทยาศาสตร์",
+    "job_type_th": "ฝึกงาน/ใช้ทุน",
+    "start_date_th": "2548-04-01",
+    "end_date_th": "2551-10-31",
+    "position": "IT Support Administrator",
+    "projects": [
+      {
+        "project": "Mahidol Computer Center's Network Ghost",
+        "duty": "Network Engineer Administrator, IT Support",
+        "detail_en": "Continue checking for virus infection in the computer center remotely and perform network ghost operations to quarantine PCs.",
+        "detail_th": "ตรวจสอบการติดไวรัสในศูนย์คอมพิวเตอร์จากระยะไกลต่อไป และดำเนินการโกสต์เครือข่ายเพื่อกักกันพีซี"
+      },
+      {
+        "project": "Network System Troubleshooting",
+        "duty": "System Engineer Assistant, IT Support",
+        "detail_en": "Teleservices and onsite service for any network problem from university's employee requests both at Salaya and PhayaThai campus.",
+        "detail_th": "บริการโทรศัพท์และบริการนอกสถานที่สำหรับปัญหาเครือข่ายตามคำขอของพนักงานมหาวิทยาลัยทั้งที่วิทยาเขตศาลายาและพญาไท"
+      }
+    ]
+  }
+]
