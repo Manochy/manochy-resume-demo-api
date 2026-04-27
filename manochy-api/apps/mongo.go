@@ -14,7 +14,6 @@ var DB *mongo.Database
 
 func InitMongo() {
 
-	// URI : mongodb+srv://portfolio_access_user:wF2huzzJokGcC1hZ@personal-cluster0.zs0hkbl.mongodb.net/?appName=Personal-Cluster0
 	if DB != nil {
 		return
 	}
